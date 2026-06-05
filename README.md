@@ -26,6 +26,9 @@ I am a Computer Engineering student and tech enthusiast passionate about bridgin
 * **Workflow & Environments:** Linux CLI, Git, Vim, Windows CLI, Markdown
 
 ---
+### Activity
+![](https://github-profile-3d-contrib.github.io/github-profile-3d-contrib/profile-green-animate.svg)
+---
 
 ### Project Directions
 
