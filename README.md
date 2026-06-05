@@ -28,6 +28,14 @@ I am a Computer Engineering student and tech enthusiast passionate about bridgin
 ---
 ### Activity
 ![](https://github-profile-3d-contrib.github.io/github-profile-3d-contrib/profile-green-animate.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NexoZegknost&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexoZegknost&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexoZegknost&theme=tokyonight" width="97%" />
+</p>
 ---
 
 ### Project Directions
