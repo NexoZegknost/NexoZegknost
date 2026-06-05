@@ -8,7 +8,7 @@ I am a Computer Engineering student and tech enthusiast passionate about bridgin
 
 ### Current Focus
 
-* **Digital Logic & Hardware:** Designing and simulating synchronous digital circuits, state machines, and FPGA prototyping (Artix-7).
+* **Digital Logic & Hardware:** Designing and simulating synchronous digital circuits, state machines, and FPGA prototyping.
 * **Data Pipelines & Software:** Developing efficient algorithms, exploring data architecture models, and writing high-performance SQL.
 * **Optimization Passion:** I love optimizing processes, from Verilog simulation runtimes to backend SQL queries.
 
@@ -36,7 +36,6 @@ I am a Computer Engineering student and tech enthusiast passionate about bridgin
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexoZegknost&theme=tokyonight" width="97%" />
 </p>
----
 
 ### Project Directions
 
